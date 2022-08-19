@@ -1,0 +1,2 @@
+Hello in My Git Repository!
+Have a Nice Day!
